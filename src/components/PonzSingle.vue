@@ -29,7 +29,7 @@
         </a>
       </li>
 
-        <li>
+        <!-- <li>
         <a
           href="https://www.instagram.com/ponzliquid/"
           target="_blank"
@@ -37,7 +37,7 @@
         >
         <i class="fab fa-instagram fa-2x" />
         </a>
-      </li>
+      </li> -->
     </ul>
 
     <div id="car">
