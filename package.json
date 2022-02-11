@@ -20,7 +20,7 @@
     "@fortawesome/free-brands-svg-icons": "^5.2.0",
     "@fortawesome/free-solid-svg-icons": "^5.2.0",
     "@fortawesome/vue-fontawesome": "^0.1.1",
-    "ajv": "^6.5.2",
+    "ajv": "^6.12.3",
     "callback-loader": "^0.2.4",
     "google-maps-api-loader": "^1.1.1",
     "hooper": "^0.3.4",
